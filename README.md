@@ -10,4 +10,4 @@ The objective of this project is to develop a model that will predict whether or
 - Test Evaluation
 - Conclusion
 
-The best model, the SGD Logistic Regression classifer, has a 67% test accuracy on held-out test data and an AUC score of 0.66.
+The best model, the SGD Logistic Regression classifer, has a 67% prediction accuracy on held-out test data and an AUC score of 0.66.
